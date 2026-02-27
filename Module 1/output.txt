@@ -1,0 +1,2 @@
+Enter the number of elements: 6
+Tazwaar
