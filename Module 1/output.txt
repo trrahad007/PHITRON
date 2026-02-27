@@ -1,2 +1,3 @@
-Enter the number of elements: 6
 Tazwaar
+/
+ Lets start for the journey of C programming
