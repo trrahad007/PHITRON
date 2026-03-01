@@ -1,3 +1,2 @@
-Integer: 10
-Float: 3.1
-Character: A
+Enter two integers: 
+The sum is 7
